@@ -1,1 +1,1 @@
-'worker: python dossa.py' 
+worker: python dossa.py
